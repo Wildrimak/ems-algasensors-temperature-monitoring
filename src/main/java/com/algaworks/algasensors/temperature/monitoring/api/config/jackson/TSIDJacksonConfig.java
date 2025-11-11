@@ -1,4 +1,4 @@
-package com.algaworks.algasensors.temperature_monitoring.api.config.jackson;
+package com.algaworks.algasensors.temperature.monitoring.api.config.jackson;
 
 import com.fasterxml.jackson.databind.Module;
 import com.fasterxml.jackson.databind.module.SimpleModule;

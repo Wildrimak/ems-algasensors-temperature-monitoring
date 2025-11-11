@@ -1,4 +1,4 @@
-package com.algaworks.algasensors.temperature_monitoring.domain.model;
+package com.algaworks.algasensors.temperature.monitoring.domain.model;
 
 import io.hypersistence.tsid.TSID;
 import jakarta.persistence.Embeddable;
